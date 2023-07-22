@@ -10,7 +10,6 @@
   import * as echarts from 'echarts';
   import GlobalSetting from '@/components/global-setting/index.vue';
 
-  
   provide('echarts', echarts);
 </script>
 
